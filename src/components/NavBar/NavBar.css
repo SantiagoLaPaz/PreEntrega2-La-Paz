@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    align-items: center; 
+    background-color: #d8c681; 
+    color: #360e02; 
+    padding: 10px; 
+    justify-content: space-between;
+  }
+
+  h3 {
+    margin: 0;
+  }
+
+  .brand {
+    margin: 0; 
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+
+ 
